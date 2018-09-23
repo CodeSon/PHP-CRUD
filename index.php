@@ -1,7 +1,7 @@
 <?php
 require 'inc/functions.php';
 
-$pageTitle = "Time Tracker";
+$pageTitle = "Let's Drive";
 $page = null;
 
 include 'inc/header.php';

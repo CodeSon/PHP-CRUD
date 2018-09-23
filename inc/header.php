@@ -48,7 +48,7 @@
   		<h1>
         <a class="logo" href="./">
           <svg viewbox="0 0 64 64" class="logo-icon"><use xlink:href="#logo_icon"></use></svg>
-          <span class="logo-name">Time Tracker</span>
+          <span class="logo-name">Let's Drive</span>
         </a>
       </h1>
 
